@@ -38,28 +38,27 @@ const Home = () => {
   let AllChonkImg = {
     slimChonk: [
       
-      "../public/images/slim/muscle.png",
-      "../public/images/slim/whey.jpg",
-      "../public/images/slim/fishfillet.jpg",
+      "../public/images/slim/p1.jpg",
+      "../public/images/slim/p2.jpg",
+      "../public/images/slim/p11.jpg",
 
     ],
     normalChonk: [
-      "../public/images/normal/coffeemilkshake.jpg",
-      "../public/images/normal/health.jpg",
-      "../public/images/normal/2.gif",
-      "../public/images/normal/3.jpg",
+      "../public/images/normal/p22.jpg",
+      "../public/images/normal/p33.jpg",
+      "../public/images/normal/p3.jpg",
 
     ],
     fatChonk: [
-      "../public/images/fat/1.png",
-      "../public/images/fat/2.png",
-      "../public/images/fat/veg.jpg",
+      "../public/images/fat/p4.jpg",
+      "../public/images/fat/p2.jpg",
+      "../public/images/fat/p44.jpg",
 
     ],
     tooFatChonk: [
-      "../public/images/2fat/gym_diet.png",
-      "../public/images/2fat/trail.jpeg",
-      "../public/images/2fat/Sauteed.jpg",
+      "../public/images/2fat/p44.jpg",
+      "../public/images/2fat/p4.jpg",
+      "../public/images/2fat/p2.jpg",
     ],
   };
 
